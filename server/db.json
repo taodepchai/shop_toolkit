@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "quantity": 20,
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://i.pinimg.com/originals/03/a7/de/03a7de4567febc624e0ad17030a1701c.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "quantity": 20,
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://i.pinimg.com/originals/03/a7/de/03a7de4567febc624e0ad17030a1701c.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful Handbag",
+      "price": 30,
+      "quantity": 20,
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://i.pinimg.com/originals/03/a7/de/03a7de4567febc624e0ad17030a1701c.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "quantity": 1234,
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://i.pinimg.com/originals/03/a7/de/03a7de4567febc624e0ad17030a1701c.jpg"
+    }
+  ]
+}
